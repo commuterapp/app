@@ -208,10 +208,6 @@ video {
 }
 
 .logo {
-    position: relative;
-}
-
-.ribbon {
     position: absolute;
     top: 0px;
     right: 0px;
